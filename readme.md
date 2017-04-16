@@ -3,11 +3,16 @@
 This is my first project using php framework (laravel).
 Its game-blog, screens:
 ![alt tab](https://raw.githubusercontent.com/531devv/Okiemgracza.pl-game-blog-laravel/master/screens/ss1.jpg)
+<br />
 ![alt tab](https://raw.githubusercontent.com/531devv/Okiemgracza.pl-game-blog-laravel/master/screens/ss2.jpg)
 ![alt tab](https://raw.githubusercontent.com/531devv/Okiemgracza.pl-game-blog-laravel/master/screens/ss3.jpg)
+=============================
 ![alt tab](https://raw.githubusercontent.com/531devv/Okiemgracza.pl-game-blog-laravel/master/screens/ss4.jpg)
+=============================
 ![alt tab](https://raw.githubusercontent.com/531devv/Okiemgracza.pl-game-blog-laravel/master/screens/ss5.jpg)
+=============================
 ![alt tab](https://raw.githubusercontent.com/531devv/Okiemgracza.pl-game-blog-laravel/master/screens/ss6.jpg)
+=============================
 ![alt tab](https://raw.githubusercontent.com/531devv/Okiemgracza.pl-game-blog-laravel/master/screens/ss7.jpg)
 
 
